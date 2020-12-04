@@ -21,20 +21,16 @@
   },
   "homepage": "https://github.com/chipenstain/todols#readme",
   "dependencies": {
-    "androidjs": "^2.0.4",
-    "electron": "^11.0.3",
     "sqlite3": "^5.0.0"
   },
   "devDependencies": {
     "@types/jquery": "^3.5.4",
-    "electron-packager": "^15.1.0",
     "grunt": "^1.3.0",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-pug": "^2.0.0",
     "grunt-contrib-sass": "^2.0.0",
     "grunt-contrib-uglify": "^5.0.0",
     "grunt-contrib-watch": "^1.1.0",
-    "grunt-electron": "^12.0.0",
     "typescript": "^4.1.2"
   }
 }
