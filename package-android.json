@@ -1,7 +1,0 @@
-{
-	"app-name" : "Todols",
-	"package-name": "live.chipenstain.todols",
-  "dependencies": {
-    "androidjs": "^2.0.4"
-  }
-}
